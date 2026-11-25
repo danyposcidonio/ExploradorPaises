@@ -292,4 +292,4 @@ Resultado esperado: a barra de status mostra **"Erro ao carregar os países."** 
 
 ## 👨‍💻 Autores
 
-Desenvolvido por **Ana Letícia Sandy**, **Daniely Poscidoni** e **Gabriel Alencar**.
+Desenvolvido por **Ana Letícia Sandy**, **Daniely Poscidonio** e **Gabriel Alencar**.
